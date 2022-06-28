@@ -6,10 +6,10 @@
 
 ### Introduction
 
-- [ ] Welcome
-- [ ] Who should take this course
-- [ ] Software requirements
-- [ ] Why not Javascript
+- [x] Welcome
+- [x] Who should take this course
+- [x] Software requirements
+- [x] Why not Javascript
 
 <br />
 
