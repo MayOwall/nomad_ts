@@ -2,7 +2,7 @@
 
 노마드 코더 TS 강의 실습용 레포.
 
-## CLEAR LOG
+## LECTURE CLEAR LOG
 
 ### Introduction
 
@@ -15,10 +15,16 @@
 
 ### Overview of Typescript
 
-- [ ] How Typescript works
-- [ ] Implicit types VS Explicit types
-- [ ] Types of TS part one
-- [ ] Types of TS part two
-- [ ] Types of TS part three
+- [x] How Typescript works
+- [x] Implicit types VS Explicit types
+- [x] Types of TS part one
+- [x] Types of TS part two
+- [x] Types of TS part three
 
 <br />
+<br />
+
+## ASSIGNMENT CLEAR LOG
+
+- [ ] DAY 01
+- [x] DAY 02
