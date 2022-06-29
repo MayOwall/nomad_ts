@@ -21,6 +21,11 @@
 - [x] Types of TS part two
 - [x] Types of TS part three
 
+### Functions
+
+- [x] Call Signatures
+- [x] Overloading
+
 <br />
 <br />
 
@@ -28,6 +33,7 @@
 
 - [ ] DAY 01
 - [x] DAY 02
+- [x] DAY 03
 
 <br />
 <br />
