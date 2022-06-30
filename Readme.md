@@ -25,6 +25,9 @@
 
 - [x] Call Signatures
 - [x] Overloading
+- [x] Polymorphism
+- [x] Generics Recap
+- [x] Conclusion
 
 <br />
 <br />
@@ -34,6 +37,7 @@
 - [ ] DAY 01
 - [x] DAY 02
 - [x] DAY 03
+- [x] DAY 04
 
 <br />
 <br />
